@@ -11,10 +11,10 @@ Pour info :
 
 Si tu souhaites tester le programme, tu dois :
 
-- Importer dans le dossier que tu auras téléchargé un fichier config.json qui contient tes clés
-- Renseigner ton mail et ton mot de passe dans le fichier send_emails.rb, ligne 30
+- Importer, dans le dossier que tu auras téléchargé, un fichier config.json qui contient tes propres clés
+- Renseigner ton mail et ton mot de passe Gmail dans le fichier send_emails.rb, ligne 30
 
-Si tu exécutes le programme send_emails.rb, il renverra un mail à toutes les mairies à Paris. Pense à modifier le prénom dans le corps du mail !
+Si tu exécutes le programme send_emails.rb, il renverra un mail à toutes les mairies à Paris. Pense à remplacer mon prénom par le tien dans le corps du mail !
 
 Pour toute question tu peux me contacter sur Slack, @ Sophie Tochon
 
